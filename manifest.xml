@@ -1,0 +1,4 @@
+<!-- wp-version 2.8.5 -->
+<MSDeploy.iisApp>
+	<iisApp path="node"/>
+</MSDeploy.iisApp>

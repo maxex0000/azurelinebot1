@@ -1,0 +1,5 @@
+﻿<parameters>
+  <parameter name="IIS Web Application Name" defaultValue="Default Web Site/node" tags="iisapp">
+    <parameterEntry type="ProviderPath" scope="iisapp" match="^node" />
+  </parameter>
+</parameters>
